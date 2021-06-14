@@ -1,7 +1,7 @@
-import Header from './components/Header.js'
-import Footer from './components/Footer.js'
-import Keywords from './components/Keywords.js'
-import SearchBar from './components/SearchBar.js'
+import Header from '@components/Header'
+import Footer from '@components/Footer'
+import Keywords from '@components/Keywords'
+import SearchBar from '@components/SearchBar'
 
 export default function Home() {
   return (

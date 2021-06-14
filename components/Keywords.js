@@ -1,4 +1,4 @@
-import { kwdata } from '../kwdata';
+import { kwdata } from './kwdata';
 const imgPathVal = '/images/';
 
  const Keywords = ({dt}) => {
